@@ -5,13 +5,26 @@
     "name":"M S Dhoni",
     "age":"37",
     "dob":"01-01-1982",
-    "current_form":"playing",
+    "current_form":"very good",
     "position":1,
     "isFit":true,
     "left_right_handed": 1,
-    "height":"5ft",
+    "height":"167cms",
     "weight":45,
             "isInTeam":true
+          
+        },    {
+            "id":2,
+    "name":"Virat Kohli",
+    "age":"37",
+    "dob":"01-01-1982",
+    "current_form":"good",
+    "position":1,
+    "isFit":true,
+    "left_right_handed": 1,
+    "height":"150cms",
+    "weight":45,
+            "isInTeam":false
           
         }
       ]
