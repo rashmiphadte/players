@@ -1,17 +1,17 @@
 {
     "players": [
         {
-          "name": "FC Barcelona",
-          "age":25,
-          "address":"ponda",
-          "contact":7798381886
+            "id":1;
+    "name":"M S Dhoni";
+    "age":37;
+    "dob":'01-01-1982';
+    "current_form:"";
+    "position":1;
+    "isFit":true;
+    "left_right_handed": true;
+    "height":"5ft";
+    "weight":45;
           
-        },
-        {
-          "name": "Real Madrid",
-          "age":26,
-          "address":"panjim",
-          "contact":8568952314
         }
       ]
     }
