@@ -10,7 +10,8 @@
     "isFit":true,
     "left_right_handed": true,
     "height":"5ft",
-    "weight":45
+    "weight":45,
+            "isInTeam":true
           
         }
       ]
