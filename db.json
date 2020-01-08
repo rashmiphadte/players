@@ -8,7 +8,7 @@
     "current_form":"very good",
     "position":1,
     "isFit":true,
-    "left_right_handed": 1,
+    "batting_side": 1,
     "height":"167cms",
     "weight":45,
             "isInTeam":true
@@ -21,7 +21,7 @@
     "current_form":"good",
     "position":1,
     "isFit":true,
-    "left_right_handed": 1,
+    "batting_side": 1,
     "height":"150cms",
     "weight":45,
             "isInTeam":false
