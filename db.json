@@ -1,30 +1,187 @@
 {
     "players": [
-        {
+         {
             "id":1,
-    "name":"M S Dhoni",
-    "age":"37",
-    "dob":"01-01-1982",
-    "current_form":"very good",
-    "position":1,
-    "isFit":true,
-    "batting_side": 1,
-    "height":"167cms",
-    "weight":45,
-            "isInTeam":true
-          
-        },    {
-            "id":2,
     "name":"Virat Kohli",
-    "age":"37",
-    "dob":"01-01-1982",
+    "age":"31",
+    "dob":"05-11-1988",
     "current_form":"good",
     "position":1,
     "isFit":true,
     "batting_side": 1,
-    "height":"150cms",
+    "height":"1.75m",
     "weight":45,
-            "isInTeam":false
+            "isInTeam":true,
+             "isInjured":false
+          
+        }, {
+            "id":2,
+    "name":"M S Dhoni",
+    "age":"38",
+    "dob":"07-07-1981",
+    "current_form":"very good",
+    "position":1,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.78m",
+    "weight":45,
+            "isInTeam":true,
+            "isInjured":false
+          
+        },   {
+            "id":3,
+    "name":"Rohit Sharma",
+    "age":"32",
+    "dob":"30-04-1987",
+    "current_form":"good",
+    "position":1,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.70m",
+    "weight":48,
+            "isInTeam":true,
+            "isInjured":false
+          
+        },  {
+            "id":4,
+    "name":"Rishabh Pant",
+    "age":"22",
+    "dob":"04-0-1997",
+    "current_form":"Excellent",
+    "position":1,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.68m",
+    "weight":40,
+            "isInTeam":true,
+            "isInjured":false
+          
+        }, 
+         {
+            "id":5,
+    "name":"Mayank Agarwal",
+    "age":"28",
+    "dob":"16-02-1991",
+    "current_form":"good",
+    "position":1,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.62m",
+    "weight":40,
+            "isInTeam":true,
+            "isInjured":false
+          
+        },  {
+            "id":6,
+    "name":"Bhuvneshwar Kumar",
+    "age":"29",
+    "dob":"05-02-1990",
+    "current_form":"very good",
+    "position":3,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.55m",
+    "weight":42,
+            "isInTeam":true,
+            "isInjured":false
+          
+        },  {
+            "id":7,
+    "name":"Ambati Rayudu",
+    "age":"34",
+    "dob":"23-09-1985",
+    "current_form":"very good",
+    "position":2,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.70m",
+    "weight":42,
+            "isInTeam":true,
+            "isInjured":false
+          
+        }, {
+            "id":8,
+    "name":"Ravindra Jadeja",
+    "age":"31",
+    "dob":"06-02-1988",
+    "current_form":"very good",
+    "position":3,
+    "isFit":true,
+    "batting_side": 2,
+    "height":"1.70m",
+    "weight":42,
+            "isInTeam":true,
+            "isInjured":false
+          
+        },  {
+            "id":9,
+    "name":"Jasprit Bumrah",
+    "age":"26",
+    "dob":"06-12-1993",
+    "current_form":"very good",
+    "position":2,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.80m",
+    "weight":40,
+            "isInTeam":true,
+            "isInjured":false
+          
+        },  {
+            "id":10,
+    "name":"Yuzvendra Chahal",
+    "age":"26",
+    "dob":"23-07-1993",
+    "current_form":"very good",
+    "position":2,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.78m",
+    "weight":40,
+            "isInTeam":true,
+            "isInjured":false
+          
+        }, {
+            "id":11,
+    "name":"Mohammed Shami",
+    "age":"29",
+    "dob":"03-09-1990",
+    "current_form":"good",
+    "position":2,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.58m",
+    "weight":40,
+            "isInTeam":true,
+            "isInjured":false
+          
+        }, {
+            "id":12,
+    "name":"Wriddhiman Saha",
+    "age":"35",
+    "dob":"24-10-1984",
+    "current_form":"Average",
+    "position":1,
+    "isFit":false,
+    "batting_side": 1,
+    "height":"1.58m",
+    "weight":40,
+            "isInTeam":false,
+            "isInjured":true
+          
+        },{
+            "id":13,
+    "name":"K. L. Rahul",
+    "age":"27",
+    "dob":"18-04-1992",
+    "current_form":"Good",
+    "position":1,
+    "isFit":true,
+    "batting_side": 1,
+    "height":"1.58m",
+    "weight":40,
+            "isInTeam":false,
+            "isInjured":true
           
         }
       ]
